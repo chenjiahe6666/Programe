@@ -13,3 +13,10 @@
   </view>
  </view> 
  </view>
+ 
+<!--密码-->
+ <view class="inputView"> 
+  <image class="keyImage" src="/images/5.png"></image> 
+  <label class="loginLab">密码</label> 
+  <input class="inputText" password="true" placeholder="请输入密码" bindinput="passwordInput" /> 
+ </view> 
