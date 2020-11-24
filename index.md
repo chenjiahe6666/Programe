@@ -20,3 +20,9 @@
   <label class="loginLab">密码</label> 
   <input class="inputText" password="true" placeholder="请输入密码" bindinput="passwordInput" /> 
  </view> 
+
+<!--忘记密码--><!--注册-->
+ <view class="changepsw" >
+  <navigator url="/pages/changepsw/changepsw"><text>忘记密码？</text></navigator>
+  <navigator url="/pages/registered/registered"><text>注册</text></navigator>
+  </view>
