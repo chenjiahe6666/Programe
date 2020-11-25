@@ -26,3 +26,12 @@
   <navigator url="/pages/changepsw/changepsw"><text>忘记密码？</text></navigator>
   <navigator url="/pages/registered/registered"><text>注册</text></navigator>
   </view>
+  
+ <!--按钮-->
+ <view class="loginBtnView"> 
+ <navigator url="/pages/dosucces/dosucces">
+  <button class="loginBtn" type="primary" size="{{primarySize}}" loading="{{loading}}" plain="{{plain}}" disabled="{{disabled}}" bindtap="login">登录</button>
+</navigator> 
+ </view> 
+ </view> 
+</view>
