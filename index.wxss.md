@@ -25,3 +25,16 @@ page{
   flex: auto; 
   height:100%; 
  } 
+ .inputView { 
+  /* background-color: #fff;  */
+  line-height: 45px; 
+  border-radius:20px;
+   border:1px solid #999999;
+ } 
+  
+ /*输入框*/
+ .nameImage, .keyImage { 
+  margin-left: 22px; 
+  width: 18px; 
+  height: 16px
+ } 
