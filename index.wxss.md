@@ -57,4 +57,5 @@ page{
  .line { 
   margin-top: 8px; 
  } 
-  
+ /*忘记密码按钮*/
+ .changepsw{color:gray;text-align: center;}
