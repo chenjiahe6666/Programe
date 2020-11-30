@@ -38,3 +38,23 @@ page{
   width: 18px; 
   height: 16px
  } 
+ 
+ .loginLab { 
+  margin: 15px 15px 15px 10px; 
+  color: #545454; 
+  font-size: 14px
+ } 
+  
+ .inputText { 
+  flex: block; 
+  float: right; 
+  text-align: right; 
+  margin-right: 22px; 
+  margin-top: 11px;
+  color: #cccccc; 
+  font-size: 14px
+ } 
+ .line { 
+  margin-top: 8px; 
+ } 
+  
