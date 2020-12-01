@@ -59,3 +59,19 @@ page{
  } 
  /*忘记密码按钮*/
  .changepsw{color:gray;text-align: center;}
+
+/*按钮*/
+ .loginBtnView { 
+  width: 100%; 
+  height: auto; 
+   /*background-color:#DCDCDC;  */
+  margin-top: 0px; 
+  margin-bottom: 0px; 
+  padding-bottom: 0px; 
+ } 
+  
+ .loginBtn { 
+  width: 90%; 
+  margin-top: 40px; 
+  border-radius:10px;
+ }
