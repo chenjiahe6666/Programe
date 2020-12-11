@@ -1,6 +1,4 @@
-<view> 
-<image src="/images/1234.GIF.jpg" class="out">
-  <button>跳过</button>
+<scroll-view>
+<image class="first" src="/images/8.jpg">
 </image>
-
-</view>
+</scroll-view>

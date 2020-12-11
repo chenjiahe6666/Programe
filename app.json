@@ -3,12 +3,15 @@
     "pages/first/first",
     "pages/index/index",
     "pages/logs/logs",
-    "pages/news"
+    "pages/changepsw/changepsw",
+    "pages/registered/registered",
+    "pages/dosucces/dosucces",
+    "pages/menu/menu"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "Face To Task",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",

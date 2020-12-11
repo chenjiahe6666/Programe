@@ -22,23 +22,22 @@ page{
   
  /*表单内容*/
  .login-from { 
-  margin-top: 20px; 
-  flex: auto; 
+  margin-top: 15px; 
   height:100%; 
  } 
-  
  .inputView { 
   /* background-color: #fff;  */
   line-height: 45px; 
   border-radius:20px;
    border:1px solid #999999;
+   margin: 20rpx;
  } 
   
  /*输入框*/
  .nameImage, .keyImage { 
   margin-left: 22px; 
   width: 18px; 
-  height: 16px
+  height: 16px;
  } 
   
  .loginLab { 
@@ -59,25 +58,13 @@ page{
  .line { 
   margin-top: 8px; 
  } 
-  
- /* .line { 
-  width: 100%; 
-  height: 1px; 
-  background-color: #cccccc; 
-  margin-top: 1px; 
- }  */
-  
- /*忘记密码按钮*/
- .changepsw{color:gray;text-align: center;}
- /*注册页面*/
-
- /*按钮*/
+  /*按钮*/
  .loginBtnView { 
   width: 100%; 
   height: auto; 
    /*background-color:#DCDCDC;  */
   margin-top: 0px; 
-  margin-bottom: 0px; 
+  margin-bottom: 16px; 
   padding-bottom: 0px; 
  } 
   
